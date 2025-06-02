@@ -1,24 +1,51 @@
-.main, h1, h3, p{
+.fashionista,
+.london,
+.lorem {
   text-align: center;
+  margin: 1px;
 }
 
-.main, h1{
-  margin-bottom: 1px;
+.london,
+.lorem {
+  color: grey;
 }
 
-.main, h3{
-  margin-top: 1px;
-  margin-bottom: 1px;
+.hot {
+  margin-bottom: 5px;
 }
 
-.main, p{
-  margin-top: 1px;
-}
+/* styling div "submain */
 
-.submain, h1{
-  text-align: left;
-}
-
-.maroon{
+/* .submain {
   display: flex;
+} */
+.input {
+  margin-top: 1px;
+}
+
+.img1, .img2 {
+  width: 300px;
+  border-radius: 15px;
+  margin-bottom: 1px;
+  margin-top: 5px;
+  width:200px;
+}
+
+.maroon, .party{
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+button{
+  height: 20px;
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 5px;
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+}
+button:hover{
+  background-color: blue;
 }
