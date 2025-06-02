@@ -1,0 +1,24 @@
+.main, h1, h3, p{
+  text-align: center;
+}
+
+.main, h1{
+  margin-bottom: 1px;
+}
+
+.main, h3{
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.main, p{
+  margin-top: 1px;
+}
+
+.submain, h1{
+  text-align: left;
+}
+
+.maroon{
+  display: flex;
+}

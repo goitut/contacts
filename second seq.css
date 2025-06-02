@@ -1,0 +1,43 @@
+.img {
+  width: 300px;
+  border-radius: 15px;
+  margin-bottom: 1px;
+}
+
+.img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.fashionista {
+  font-size: 15px;
+  color: grey;
+  margin-top: 1px;
+}
+
+.firstbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+}
+
+.firstbtn:hover {
+  background-color: blueviolet;
+}
+
+.secondbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  height: 60px;
+  width: 400px;
+}
+
+.secondbtn:hover {
+  background-color: blueviolet;
+}
