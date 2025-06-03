@@ -19,6 +19,16 @@
 /* .submain {
   display: flex;
 } */
+
+.submain {
+  display: flex;
+  gap: 10px;
+}
+
+.submain2 {
+  display: flex;
+  gap: 10px;
+}
 .input {
   margin-top: 1px;
 }
