@@ -1,3 +1,4 @@
+
 .img {
   width: 300px;
   border-radius: 15px;
@@ -8,10 +9,16 @@
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
+.review {
+  display: flex;
+  text-align: center;
+}
+
 .fashionista {
   font-size: 15px;
   color: grey;
   margin-top: 1px;
+  margin-right: 5px;
 }
 
 .firstbtn {
